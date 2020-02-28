@@ -39,5 +39,5 @@ class TerminatorSearch(plugin.MenuItem):
     return menu
 
   def on_click(self, widget, event):
-    url = 'https://www.google.com/search?q=' + self.content
+    url = 'https://duckduckgo.com/' + self.content
     call(["xdg-open", url])

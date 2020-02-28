@@ -1,5 +1,5 @@
 # Terminator Search
-A Google search plugin for Terminator terminal emulator
+A DuckDuckGo version of Google search plugin for Terminator terminal emulator. This has been achieved via changing one line.
 
 # Requirements
   - xdg-open
